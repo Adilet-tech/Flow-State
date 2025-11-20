@@ -1,0 +1,16 @@
+# Python (Backend)
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Node / Javascript (Mobile)
+node_modules/
+npm-debug.log
+yarn-error.log
+.expo/
+dist/
+web-build/
+
+# Mac OS system files
+.DS_Store
